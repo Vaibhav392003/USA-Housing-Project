@@ -1,1 +1,5 @@
 # USA-Housing-Project
+
+This is one of the famous projects in Linear Regression. That has a presiction of housing price in USA where this housing price is based on the number of bedroom, locality, number of bathrooms etc. Here I used the Data Visualization libraries like matplotlib and seaborn for for data visualization. And also used the Pandas and numpy for playing with the data.
+
+Craving a taste of real estate prediction bliss? Dive into this miniature Python project where, in just 50 lines of code, you'll unleash the power of data to forecast US housing prices! We'll be wrangling housing data with trusty Pandas, crafting numerical magic with NumPy, and letting Scikit-learn's linear regression algorithm become our data-powered oracle. Imagine feeding it house features and watching it learn, predict, and ultimately guide you towards informed real estate decisions. This is just the beginning - expand your code, visualize the results, compare with other algorithms, and watch your data-driven real estate prowess flourish! So, ditch the gut feelings and embrace the future
